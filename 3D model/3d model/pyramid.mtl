@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:18.08.2019 19:50:03
+
+newmtl 14___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\cool.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\cool.jpg

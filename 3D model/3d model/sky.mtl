@@ -1,0 +1,86 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:19.08.2019 16:25:21
+
+newmtl 01___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\top.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\top.jpg
+
+newmtl 09___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\bottom.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\bottom.jpg
+
+newmtl 03___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\left.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\left.jpg
+
+newmtl 07___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\right.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\right.jpg
+
+newmtl 02___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\back.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\back.jpg
+
+newmtl 08___Default
+	Ns 10.00000
+	Ni 1.50000
+	d 1.00000
+	Tr 0.00000
+	Tf 1.00000 1.00000 1.00000 
+	illum 2
+	Ka 0.58824 0.58824 0.58824
+	Kd 0.58824 0.58824 0.58824
+	Ks 0.00000 0.00000 0.00000
+	Ke 0.00000 0.00000 0.00000
+	map_Ka D:\C++\big homework\3D Parkour\3D Parkour\3d model\front.jpg
+	map_Kd D:\C++\big homework\3D Parkour\3D Parkour\3d model\front.jpg
